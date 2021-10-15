@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-shopifynextjsamplify-dev-154910-authRole",
+      "UnauthRoleArn": "arn:aws:iam::573423333442:role/amplify-shopifynextjsamplify-dev-154910-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::573423333442:role/amplify-shopifynextjsamplify-dev-154910-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-shopifynextjsamplify-dev-154910-deployment",
+      "UnauthRoleName": "amplify-shopifynextjsamplify-dev-154910-unauthRole",
+      "StackName": "amplify-shopifynextjsamplify-dev-154910",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:573423333442:stack/amplify-shopifynextjsamplify-dev-154910/025c9e40-2d84-11ec-a6e5-0624e6d2b297",
+      "AmplifyAppId": "dkmxcsp48e63s"
+    }
+  }
+}
