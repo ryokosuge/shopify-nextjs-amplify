@@ -11,5 +11,18 @@
       "StackId": "arn:aws:cloudformation:ap-northeast-1:573423333442:stack/amplify-shopifynextjsamplify-dev-154910/025c9e40-2d84-11ec-a6e5-0624e6d2b297",
       "AmplifyAppId": "dkmxcsp48e63s"
     }
+  },
+  "prod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-shopifynextjsamplify-prod-113143-authRole",
+      "UnauthRoleArn": "arn:aws:iam::573423333442:role/amplify-shopifynextjsamplify-prod-113143-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::573423333442:role/amplify-shopifynextjsamplify-prod-113143-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-shopifynextjsamplify-prod-113143-deployment",
+      "UnauthRoleName": "amplify-shopifynextjsamplify-prod-113143-unauthRole",
+      "StackName": "amplify-shopifynextjsamplify-prod-113143",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:573423333442:stack/amplify-shopifynextjsamplify-prod-113143/893deed0-2fbb-11ec-8a24-0af205495dcb",
+      "AmplifyAppId": "dkmxcsp48e63s"
+    }
   }
 }
